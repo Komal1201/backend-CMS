@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_movies_fridays",
+  "info": {
+    "displayName": "Movie",
+    "icon": "play",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Rating": {
+      "type": "decimal"
+    },
+    "Genre": {
+      "displayName": "Genre",
+      "type": "component",
+      "repeatable": false,
+      "component": "genre.genre"
+    },
+    "Content": {
+      "type": "string"
+    },
+    "Director": {
+      "type": "component",
+      "repeatable": true,
+      "component": "directors.frank-darabont"
+    }
+  }
+}

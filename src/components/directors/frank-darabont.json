@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_directors_frank_darabonts",
+  "info": {
+    "displayName": "Frank Darabont"
+  },
+  "options": {},
+  "attributes": {
+    "Director": {
+      "type": "string"
+    }
+  }
+}

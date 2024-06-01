@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_genre_dramas",
+  "info": {
+    "displayName": "Drama"
+  },
+  "options": {},
+  "attributes": {
+    "Drama": {
+      "type": "string"
+    }
+  }
+}
