@@ -1,3 +1,12 @@
+# HEADLESS-CMS
+
+We selected the Strapi as our headless CMS and Vue.js as our frontend library.
+
+We selected the Movie Review Site as our project. The site will have a list of 10 movies and clicking on them will take users to the review pages.
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
